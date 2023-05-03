@@ -1,8 +1,8 @@
 # MSICtorJME
 An app to help junior high school students write their homework.
 
-		Read Me
-		MSICtorJME数学科学多功能集成计算器使用指南
+Read Me
+MSICtorJME数学科学多功能集成计算器使用指南
 
 Copyright(c) 2022-2032 丁子麟 Zilin Ding
 本软件版权归 2022-2032 丁子麟 Zilin Ding 所有
